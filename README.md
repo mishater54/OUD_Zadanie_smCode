@@ -1,2 +1,2 @@
-# OUD_Zadanie_smCode
+# OUD_Zadanie1_smCode
 Zadanie z przedmiotu OUD
